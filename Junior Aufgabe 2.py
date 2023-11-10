@@ -1,4 +1,7 @@
-# Pfad zum Bild angeben
+import rgb
+import 
+
+main/bild01.zip
 f = open("bild1.ppm", encoding = "utf-8")
 magicNumber = f.readline().splitlines()
 size_x, size_y = f.readline().split()
